@@ -12,5 +12,4 @@ def URLify(s: str, lenght: int) -> str:
         else:
             result.append(s[i])
     return "".join(result)
-
 print(URLify("Mr John Smith", 13))       # Mr%20John%20Smith
