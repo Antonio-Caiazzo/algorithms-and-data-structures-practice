@@ -1,4 +1,4 @@
-# Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you caannot use additional data structures?
+# Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you can not use additional data structures?
 
 # Time complexity: O(n)
 # Space complexity: O(n)
