@@ -24,7 +24,7 @@
 # recentCounter.ping(3001);  // returns 3
 # recentCounter.ping(3002);  // returns 3
 #
-# Time complexity: O(1) amortized per operation
+# Time complexity: O(1) amortized per operation, but in worst case is O(n)
 # Space complexity: O(n), where n is number of pings stored in the 3000ms window
 
 from collections import deque
